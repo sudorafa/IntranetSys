@@ -1,6 +1,6 @@
 <?php
 	/*
-		Form Criado para carregar o cabeçalho do Portal
+		Form Criado para carregar o cabeÃ§alho do Portal
 		Rafael Eduardo Lima @sudorafa
 		Recife, 07 de Setembro de 2016
 	*/
@@ -22,8 +22,8 @@
     <body> 
 		<div id="interface">
             <header id="cabecalho">
-                <a id="logoHeaderAtacadao" href="/index.php">
-                    <image title="Intranet Filial - Atacadão Recife" alt="Logo Atacadão." src="/_imagens/logo.png"/>
+                <a id="logoHeaderEmpresa" href="/index.php">
+                    <image title="Intranet Sys - Nome Empresa" alt="Logo Empresa." src="/_imagens/logo.png"/>
                 </a>
                 <section id="textoCabecalho">
                     <h1 align="right">
@@ -31,9 +31,9 @@
                     </h1>
 					<h2 align="right">
                         <script language="JavaScript">
-                            days = new Array("Domingo","Segunda-feira","Terça-feira","Quarta-feira","Quinta-feira",
-                                                "Sexta-feira","Sábado");
-                            months = new Array("Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho",
+                            days = new Array("Domingo","Segunda-feira","TerÃ§a-feira","Quarta-feira","Quinta-feira",
+                                                "Sexta-feira","SÃ¡bado");
+                            months = new Array("Janeiro","Fevereiro","MarÃ§o","Abril","Maio","Junho","Julho",
                                                 "Agosto","Setembro","Outubro","Novembro","Dezembro");
                             today = new Date();
                             day = days[today.getDay()];
