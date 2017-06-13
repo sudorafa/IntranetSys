@@ -17,7 +17,7 @@ body {width: 95%; margin: auto; background-color: #eeeeee;}
 
 /*Formatação do Cabeçalho: */
 #cabecalho {background: url(../_imagens/bg_header.png); padding: 10px; margin: 0px 0.5%;}
-#logoHeaderAtacadao {width: 219px; height: 101px; margin: 10px; float: left; }
+#logoHeaderEmpresa {width: 219px; height: 101px; margin: 10px; float: left; }
 #textoCabecalho {float: right; margin-right: 0px; text-align: end;}
 #textoCabecalho h1 {font-size: 25pt; font-family: sans-serif, Arial, serif; color: #ea670f;
                         text-shadow: 2px 2px 3px rgba(0,0,0,.6); font-weight: bold;}
